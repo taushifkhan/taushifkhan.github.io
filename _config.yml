@@ -107,14 +107,14 @@ analytics:
 # Site Author
 author:
   name             : "Taushif Khan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/bioPic_2018.jpeg"
+  bio              : "I am a computational biologiest, interested in bio-molecule study using data"
+  location         : "Brussels-BE"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:taushif.khan@vub.ac.be
     - label: "Website"
       icon: "fas fa-fw fa-link"
 #       url: "https://proteinlego.com"
