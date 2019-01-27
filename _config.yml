@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/images/bioPic_2018.jpeg"
   bio              : "I am a computational biologiest, interested in bio-molecule study using data"
   location         : "Brussels-BE"
-  email            :
+  email            : "tauskhan@vub.ac.be"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
