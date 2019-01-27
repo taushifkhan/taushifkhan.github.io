@@ -108,16 +108,16 @@ analytics:
 author:
   name             : "Taushif Khan"
   avatar           : "/assets/images/bioPic_2018.jpeg"
-  bio              : "I am a computational biologiest, interested in bio-molecule study using data"
+  bio              : "I am a computational biologist, interested in bio-molecule study using data"
   location         : "Brussels-BE"
   email            : "tauskhan@vub.ac.be"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-#      url: mailto:taushif.khan@vub.ac.be
+      url: mailto:taushif.khan@vub.ac.be
     - label: "Website"
       icon: "fas fa-fw fa-link"
-#       url: "https://proteinlego.com"
+      url: "https://proteinlego.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/taushifkhan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
