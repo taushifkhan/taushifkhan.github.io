@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:taushif.khan@vub.ac.be
+#      url: mailto:taushif.khan@vub.ac.be
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://www.proteinlego.com"
