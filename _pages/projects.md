@@ -3,8 +3,8 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-avatar           : "/assets/images/FaviIcon_TK.png"
-
+author:
+    avatar      : "/assets/images/FaviIcon_TK.png"
 ---
 {% include gallery%}
 {% include group-by-array collection=site.posts field="tags" %}
