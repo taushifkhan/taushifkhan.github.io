@@ -6,7 +6,7 @@ header:
 
 author:
   name             : "Taushif Khan"
-  avatar           : "/assets/images/taushif_cv.jpg"
+  avatar           : "/assets/images/bioOic_2018.jpg"
 ---
 
 ### About Me
