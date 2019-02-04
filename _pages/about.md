@@ -18,6 +18,13 @@ of life.
 Apart from research, I am interested in politics, history (formation of civilization) and good stories.
 Presently, I am in Brussels, Belgium. 
  
+> A man climbs a mountain because it is there. A man makes a work of art because it is not there.
+> [Carl André](https://fr.wikipedia.org/wiki/Carl_Andre)
+
+> scientists climb a mountain because it is not there, yet
+> [---](unk)
+
+
 
 ###  Research Interest
 
