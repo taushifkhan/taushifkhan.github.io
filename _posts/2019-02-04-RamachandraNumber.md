@@ -4,6 +4,7 @@ date: 2019-02-04
 tags: [Proteins, Structure, Python]
 header:
     image: "/assets/images/post/2019-02-04-RN1.png"
+    
 excerpt: "Phi-Psi in One number"
 
 ---
@@ -17,7 +18,7 @@ The celebrated work of G.N. Ramachandran, C. Ramakrishnana nd V. Sasisekharan is
 Their findings of different "regions" in Phi-Psi plane, characterise local and non-local behaviour of amino acids in 3D model. Hence, the 
 2D plot is paramount to map and understand structural properties of amino acids in a 3D space.
 
-In an attempt to simplifying the 2D representation to 1D numbers, ((Mannige, R. V., Kundu, J., & Whitelam, S. (2016))[http://doi.org/10.1371/journal.pone.0160023]])
+In an attempt to simplifying the 2D representation to 1D numbers, ([Mannige, R. V., Kundu, J., & Whitelam, S. (2016)](http://doi.org/10.1371/journal.pone.0160023))
 have proposed a transformation method. In brief, this method grids the 2D plane and assigns different numbers (0 to 1) for 7 broader
 secondary structure regions and disorder regions. 
 
@@ -65,7 +66,7 @@ git clone https://taushifkhan@bitbucket.org/taushifkhan/ramanumber.git
 
 3. As a module:  call in the class by importing the module
     
-    ```python
+    ```
     import ramaNumber as rN 
     dihedral = Np.loadtxt('./testFile/GLU_23.xvg',dtype='float') 
     R = rN.RamaNumber(dihedral[:,0],dihedral[:,1]) 
