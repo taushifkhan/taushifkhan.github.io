@@ -105,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-04-ProLegoV3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="337">
+              <first_editor relative-caret-position="292">
                 <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
               </first_editor>
               <second_editor />
@@ -230,7 +230,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549368860174" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549369076508" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -261,12 +261,12 @@
       <updated>1548582814687</updated>
       <workItem from="1548582818471" duration="16644000" />
       <workItem from="1549276303776" duration="7459000" />
-      <workItem from="1549286492726" duration="8048000" />
+      <workItem from="1549286492726" duration="8208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32151000" />
+    <option name="totallyTimeSpent" value="32311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1466" y="143" width="1280" height="736" extended-state="0" />
@@ -479,7 +479,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-04-ProLegoV3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="337">
+          <first_editor relative-caret-position="292">
             <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
           </first_editor>
           <second_editor />
