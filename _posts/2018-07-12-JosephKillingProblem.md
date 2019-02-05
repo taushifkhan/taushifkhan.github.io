@@ -31,6 +31,17 @@ n=6; 1>2 3>4 5>6; 1>3 5>1 : w(n) = 5
 n=7; 1>2 3>4 5>6 7>1; 3>5 7>3: w(n) = 7
 n=8: 1>2 3>4 5>6 7>8; 1>3 5>7 ; 1>5 = 1
 ```
+In the above example, when there are 8 people in the scene, 
+
+```
+Round 1: 
+1 (killed) 2 | 3 (killed) 4 | 5 (killed) 6 | 7 (killed) 8
+Round 2:
+ 1(killed) 3 | 5 (killed) 7 
+Round 3:
+1 (killed) 5
+Survivor : 1
+```
 
 * observation 1: all even position are get killed at one cycle here on we will start with odd positions only
 ```
@@ -48,9 +59,8 @@ n= 16: w(n) = 1
 ```
 
 * Now we have seen following observations,
-
-Reparation of odd surviving seats.
-A relation between number of people and order of last surviving seat.
+    * Reparation of odd surviving seats.
+    * A relation between number of people and order of last surviving seat.
 
 From second observation, we can say that, when the number of seats are absolute power of 2 (n= 2,4,8,16.. ); 
 winning seat is 1 (w(n)=1).
@@ -59,10 +69,13 @@ winning seat is 1 (w(n)=1).
 
 § if there is remainder (l) from the biggest binomial of 2; winning seat number can be 2l+1
 
-*  now lets try, for the original problem of Joseph killing, suppose there were 41 jews last on the table.
+*  Now lets try, for the original problem of Joseph killing, 
+```
+suppose there were 41 jews last on the table.
 41 = 2^5 + 9
 hence, the possible last surviving seat is 2*9+1 = 19. 
 Joseph would be sitting on the 19th position from the killing to start.
+```
 
 ### A cool solution : Jumping the binary.
 
