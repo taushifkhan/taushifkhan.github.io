@@ -1,7 +1,7 @@
 ---
 title: "Dihedral Transfrmation from 2D plot to Numbers"
 date: 2019-02-04
-tags: [Proteins, Structure, Python]
+tags: [Proteins, Methods]
 header:
     image: "/assets/images/post/2019-02-04-RN1.png"
     

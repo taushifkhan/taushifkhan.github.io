@@ -1,7 +1,7 @@
 ---
 title: "Setting up Molecular Dynamics simulation with GPU and Docker"
 date: 2018-08-23
-tags: [Docker, MolecularDynamics, Gromacs]
+tags: [Methods]
 header:
     #image: "/assets/images/404Page.jpg"
 excerpt: "Molecular Dynamics in Docker Container with GPU"

@@ -1,7 +1,7 @@
 ---
 title: "Building some thing"
 date: 2019-01-27
-tags: [python, apple, cat]
+tags: [Test]
 header:
     image: "/assets/images/404Page.jpg"
 excerpt: "Year that gone by!!!"

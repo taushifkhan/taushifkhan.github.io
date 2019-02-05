@@ -1,7 +1,7 @@
 ---
 title: "Mathematics of how Joseph survived !"
 date: 2018-01-27
-tags: [Mathematics, Game, History]
+tags: [Fun]
 header:
     #image: "/assets/images/404Page.jpg"
 excerpt: "How to stay alive with Mathematics"
