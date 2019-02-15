@@ -63,4 +63,18 @@ The largest P value that has ```P<(i/m)Q``` is significant,
 and all of the P values smaller than it are not significant,
 even the ones that are not less than their Benjamini-Hochberg critical value.
 
+### Welch’s T-Test:
+This is an adaptation of students’ T-test. Welch’s Test is used to test the 
+hypothesis that two population have unequal means. 
+This is more reliable when two samples have unequal variance and unequal sample size. 
+Also called as Unequal variances.
+Both student’s T-test and Welch’s test has the assumption that data under 
+consideration has normal distribution.
 
+Main difference from students Test is that Welch test do not assume that variance in 
+two sample is same.  
+
+It returns the same result as the t-test even if the variances are equal 
+(this however, is not true for small sample sizes, where Welch’s performance is questionable).
+
+Interesting post : [from 20% statistian](http://daniellakens.blogspot.com/2015/01/always-use-welchs-t-test-instead-of.html)
