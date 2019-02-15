@@ -10,7 +10,7 @@ excerpt: "Molecular Dynamics in Docker Container with GPU"
 
 This post is aimed to getting stared with Docker container for Molecular Dynamics 
 simulation with GPU (Cuda) computing. This is a note written for personal reference, hence not a
-complete reference. 
+complete stand-alone. 
 
 ### Docker
 [docker file for utility](https://github.com/taushifkhan/Docker)
