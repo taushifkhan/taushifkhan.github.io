@@ -40,13 +40,13 @@
         <counts>
           <entry key="2018-09-11-NeurologicalDiseae" value="63" />
           <entry key="html" value="11" />
-          <entry key="md" value="1122" />
+          <entry key="md" value="1183" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="11" />
-          <entry key="Markdown" value="1122" />
+          <entry key="Markdown" value="1183" />
           <entry key="PLAIN_TEXT" value="63" />
         </counts>
       </usages-collector>
@@ -112,8 +112,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-02-10-StatisticalTests.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="373">
-                <caret line="79" column="10" selection-start-line="79" selection-start-column="10" selection-end-line="79" selection-end-column="10" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -250,7 +250,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550237615650" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550237964430" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -279,18 +279,18 @@
       <workItem from="1549276303776" duration="7459000" />
       <workItem from="1549286492726" duration="12576000" />
       <workItem from="1550229981977" duration="2375000" />
-      <workItem from="1550234450736" duration="3061000" />
+      <workItem from="1550234450736" duration="3367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4573000" />
+    <option name="totallyTimeSpent" value="4879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1466" y="143" width="1303" height="998" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25535288" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25535288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -305,7 +305,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4415011" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4415011" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -420,8 +420,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-10-StatisticalTests.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="373">
-            <caret line="79" column="10" selection-start-line="79" selection-start-column="10" selection-end-line="79" selection-end-column="10" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>

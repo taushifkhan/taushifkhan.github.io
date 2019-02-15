@@ -1,11 +1,11 @@
 ---
-title: "Phase Separation in the RNA-Protein Opus"
+title: "Playing Devils' Advocate to your data"
 date: 2019-02-04
 tags: [Statistics]
 header:
     #image: "/assets/images/post/ProLegoPost.png"
     
-excerpt: "Playing Devils' Advocate to your data"
+excerpt: "Open for test!! "
 
 ---
 
