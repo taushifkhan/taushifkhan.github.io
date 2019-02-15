@@ -6,6 +6,7 @@ author_profile: true
 author:
     avatar      : "/assets/images/FaviIcon_TK.png"
 ---
+Current and previous projects undertaken.
 {% include gallery%}
 {% include group-by-array collection=site.posts field="tags" %}
 
